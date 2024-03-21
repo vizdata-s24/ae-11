@@ -1,0 +1,35 @@
+---
+title: "AE 11: Easter Island"
+format: html
+editor: visual
+editor_options: 
+  chunk_output_type: console
+---
+
+```{r}
+#| label: load-packages-data
+#| message: false
+
+library(tidyverse)
+library(ggnewscale)
+library(sf)
+library(stars)
+```
+
+## Easter Island
+
+First, load the data:
+
+```{r}
+#| label: load-data
+
+# add code here
+```
+
+Then recreate the plot:
+
+```{r}
+#| label: ei-plot
+
+# add code here
+```
